@@ -18,8 +18,8 @@ $reply=$_POST["reply"];
 
 $mail = new PHPMailer(true);
 
-$email = 'adi2309m@gmail.com';
-$password = 'hjyb hxtn ylzz ldmz ';
+$email = '';
+$password = ' ';
 
 try {
     // Configure SMTP settings
